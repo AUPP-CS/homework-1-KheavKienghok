@@ -23,7 +23,6 @@ currency_amount = input("Enter the amount  : ")
 # Call the currency_conversion function with the user's currency and amount
 result = currency_conversion(currency_store, currency_amount)
 
-riel_cambodia = "\u17DB"
 print("\n╔════════════════════════════════════════════════════════════════════════════╗")
 print("║                                                                            ║")
 print(f"║           Your total in RIEL៛ after conversion is:   {result:<15}       ║")
